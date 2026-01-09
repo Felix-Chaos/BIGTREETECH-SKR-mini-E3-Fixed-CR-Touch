@@ -1,4 +1,7 @@
 # BIGTREETECH SKR Mini E3 V1.x and V2.x
+This was a simple fix for the Cr touch that have already been pushed 
+
+-----
 
 BIGTREETECH SKR Mini E3 V1.x and V2.x mainboards are ultra-quiet, low-power, high-quality 3D printing machine controller boards from BIQU.
 
